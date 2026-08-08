@@ -8,6 +8,7 @@
 
 * **Camping de Verano Ruso del año 2024 - Selección IChO 2024**
   * [Descargar PDF](./pdfs/theoretical.pdf)
+  * [Descargar PDF](./pdfs/theoretical.pdf)
 
 ---
 
