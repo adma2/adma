@@ -9,7 +9,7 @@
 
 ---
 
-## 📚 Materiales y Libros Traducidos
+## Materiales y Libros Traducidos
 
 * **Camping de Verano Ruso del año 2024 - Selección IChO 2024**
   * [Traducido Al Inglés](./pdfs/RussianSummerCamp2024Eng.pdf)
@@ -27,7 +27,7 @@
 
   ---
 
-## 📌 Créditos, Atribución y Licencia
+## Créditos, Atribución y Licencia
 
 > **Aviso de Propiedad Intelectual:**
 > Los enunciados y exámenes originales pertenecen a sus respectivas instituciones y comités organizadores (como la *Facultad de Química de la Universidad Estatal de Moscú - MSU*, el *Comité de la CChO*, entre otros). 
