@@ -2,7 +2,7 @@
 
 # Ángel Munguía
 
-[Inicio](./) / [Académico](./) / [Traducciones](./) / [Contacto](./)
+[Inicio](./) / [Contacto](./)
 # Competencia y Literatura de Química
 
 ¡Hola! Bienvenido/a. En este sitio comparto y distribuyo libremente material avanzado de preparación para olimpiadas de química, traducciones de literatura rusa y exámenes internacionales.
