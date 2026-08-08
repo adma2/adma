@@ -1,3 +1,8 @@
+<img src="https://github.com/ajadeje83.png" width="100" style="border-radius: 8px;">
+
+# Ángel Munguía
+
+[Inicio](./) / [Académico](./) / [Traducciones](./) / [Contacto](./)
 # Competencia y Literatura de Química
 
 ¡Hola! Bienvenido/a. En este sitio comparto y distribuyo libremente material avanzado de preparación para olimpiadas de química, traducciones de literatura rusa y exámenes internacionales.
