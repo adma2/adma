@@ -20,7 +20,7 @@
 ## 🇨🇳 Olimpiada China de Química (CChO)
 * Próximamente traducciones de la CChO...
 
-## 🇨🇳 Olimpiada Hondureña de Química (OHQ)
+## 🇭🇳 Olimpiada Hondureña de Química (OHQ)
  Puedes encontrar los exámenes de la OHQ en el sitio web listado debajo:
  * [ohquimica.com](https://ohquimica.com/)
 
