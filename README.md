@@ -13,8 +13,7 @@
 
 * **Camping de Verano Ruso del año 2024 - Selección IChO 2024**
   * [Traducido Al Inglés](./pdfs/RussianSummerCamp2024Eng.pdf)
-  * [Documento Original (Ruso)](./pdfs/RussianSummerCamp2024.pdf)
-  * [Soluciones (Ruso)](./pdfs/RussianSummerCamp2024Sol.pdf)
+  * [Documento Original (Ruso) + Soluciones](https://www.chem.msu.ru/rus/olimpiad/intl-summer-2024/)
 
 ---
 
